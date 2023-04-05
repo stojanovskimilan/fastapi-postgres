@@ -1,1 +1,1 @@
-# fastapi-postgres
+# FastAPI and PostgreSQL
